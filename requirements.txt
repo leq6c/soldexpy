@@ -1,0 +1,6 @@
+base58
+solders
+solana==0.31.0
+aiohttp
+requests
+munch
